@@ -1,0 +1,32 @@
+Cpu(s)usage 5.6%
+MiB Free 2692.0
+MiB Used 1224.6
+MiB % Used 31.272%
+HDD Free 9.1G 
+HDD Used 15G 
+HDD % Used 60%
+  
+%CPU COMMAND USER
+13.3 top u-m2cld
+0.0 systemd root
+0.0 kthreadd root
+0.0 pool_wo+ root
+0.0 kworker+ root
+  
+%MEM COMMAND USER
+9.1 gnome-s+ u-m2cld
+4.4 update-+ u-m2cld
+2.7 evoluti+ u-m2cld
+2.2 evoluti+ u-m2cld
+2.2 xdg-des+ u-m2cld
+VERSION="24.04.2 LTS (Noble Numbat)"
+Work up time 1
+Load average users, load average:
+users loggined:
+1
+u-m2cld u-m2cld u-m2cld
+u-m2cld  pts/1        192.168.0.26     Thu Jun 18 08:36   still logged in
+u-m2cld  pts/0        192.168.0.26     Wed Jun 17 22:49 - 08:47  (09:57)
+u-m2cld  pts/1        192.168.0.26     Wed Jun 17 21:42 - 23:50  (02:08)
+u-m2cld  pts/1        192.168.0.26     Wed Jun 17 21:40 - 21:41  (00:00)
+u-m2cld  pts/0        192.168.0.26     Wed Jun 17 13:05 - 22:49  (09:44)
